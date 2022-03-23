@@ -9,6 +9,8 @@ I initially created Fretboard in 2013 as part of learning Python, and to produce
 This version provides a GUI built with PyQt 5. 
 
 ## How to use Fretboard
+Fretboard can be launched by executing fretboard.py, which contains all code for Fretboard.
+
 A scale to be visualized must first be selected. In Fretboard, scales consist of, and are specified by, three parameters: (1) a key, (2) a family to which the scale belongs, and (3) a mode.  
 
 All twelve keys of the standard western 12-tone octave are supported (C,Db,D,Eb,E,F,Gb,G,Ab,A,Bb,B). 
