@@ -26,6 +26,9 @@ The selection of a key, provided family and mode are selected, results in the di
 
 The fretboard can be cleared of a displayed scale by setting key to the first item of the key combobox, whose value is empty.
 
+## Screenshots
+![Screenshot](https://user-images.githubusercontent.com/491395/160926528-4644268f-c8df-4076-b4ad-abacdcb41bff.png)
+
 ## Future Development
 The current version of Fretboard provides a framework that is easily extensible to provide many more desirable and creative features. Among the highest priorities for additional features are:
 - color-coding notes according to their interval,
